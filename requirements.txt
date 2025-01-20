@@ -17,4 +17,8 @@ openpyxl
 pyxlsb
 seaborn
 groq
+python-Levenshtein
+unidecode
+fuzzywuzzy
+tabulate
 -e .
